@@ -1,0 +1,26 @@
+<annotation>
+	<folder>pedestrian crossing sign</folder>
+	<filename>153 Pedestrian Crossing Sign High Res....jpg</filename>
+	<path>E:\images\pedestrian crossing sign\153 Pedestrian Crossing Sign High Res....jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>382</width>
+		<height>612</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pedestrian</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>28</xmin>
+			<ymin>69</ymin>
+			<xmax>349</xmax>
+			<ymax>366</ymax>
+		</bndbox>
+	</object>
+</annotation>

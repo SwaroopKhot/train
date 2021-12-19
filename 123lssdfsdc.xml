@@ -1,0 +1,26 @@
+<annotation>
+	<folder>narrow_road ww</folder>
+	<filename>123lssdfsdc.png</filename>
+	<path>E:\images\project_images-main\narrow_road ww\123lssdfsdc.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>225</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>narrow-road</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>24</xmin>
+			<ymin>30</ymin>
+			<xmax>200</xmax>
+			<ymax>194</ymax>
+		</bndbox>
+	</object>
+</annotation>

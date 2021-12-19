@@ -1,0 +1,26 @@
+<annotation>
+	<folder>car</folder>
+	<filename>62_921 Car Front View Stock Photos... (2).jpg</filename>
+	<path>E:\images\car\62_921 Car Front View Stock Photos... (2).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>612</width>
+		<height>411</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>72</xmin>
+			<ymin>54</ymin>
+			<xmax>540</xmax>
+			<ymax>366</ymax>
+		</bndbox>
+	</object>
+</annotation>

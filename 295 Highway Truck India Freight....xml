@@ -1,0 +1,26 @@
+<annotation>
+	<folder>truck</folder>
+	<filename>295 Highway Truck India Freight....jpg</filename>
+	<path>E:\images\truck\295 Highway Truck India Freight....jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>612</width>
+		<height>408</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>162</xmin>
+			<ymin>139</ymin>
+			<xmax>534</xmax>
+			<ymax>339</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>truck</folder>
+	<filename>1_209 India Lorry Photos - Free....jpg</filename>
+	<path>E:\images\truck\1_209 India Lorry Photos - Free....jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>900</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>162</xmin>
+			<ymin>164</ymin>
+			<xmax>461</xmax>
+			<ymax>448</ymax>
+		</bndbox>
+	</object>
+</annotation>
